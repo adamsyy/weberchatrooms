@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886954623099",
+    "project_id": "weber-connect-1a0ee",
+    "storage_bucket": "weber-connect-1a0ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886954623099:android:c3c672e2378b0e8ac422de",
+        "android_client_info": {
+          "package_name": "co.weberstills.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886954623099-8bp7cvr4efr1aegrlrn3i9rqp6vbpiue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApi11lEp9633zHc4JKemAAOia7ryJp8lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886954623099-8bp7cvr4efr1aegrlrn3i9rqp6vbpiue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
